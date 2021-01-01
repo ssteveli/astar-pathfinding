@@ -5,7 +5,7 @@ the olc::PixelGameEngine from [One Lone Coder](https://community.onelonecoder.co
 
 ## Example
 
-[![Example Video](https://img.youtube.com/vi/j9pVCZjIkks/0.jpg)](https://youtu.be/j9pVCZjIkks)
+[![Example Video](https://img.youtube.com/vi/j9pVCZjIkks/0.jpg)](http://www.youtube.com/watch?v=j9pVCZjIkks)
 
 ## Cloning
 
